@@ -4,7 +4,7 @@ import { BrowserRouter as Router } from "react-router-dom";
 import NewCarousel from "../carousel";
 
 function App() {
-  const [allHouses, setAllHouses] = useState([]);
+  const [ setAllHouses] = useState([]);
 
   useEffect(() => {
     const fetchHouses = async () => {
