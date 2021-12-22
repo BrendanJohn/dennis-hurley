@@ -6,6 +6,7 @@ import FeaturedHouse from "./featured-house"
 import SearchResults from "../search-results"
 import HouseFilter from "./house-filter";
 import HouseFromQuery from "../house/HouseFromQuery";
+import NewCarousel from "../carousel";
 
 function App() {
   const [allHouses, setAllHouses] = useState([]);
@@ -28,6 +29,7 @@ function App() {
   return (
     <Router>
       <div className="container">
+      <NewCarousel></NewCarousel>
         <Header subtitle="Providing houses all over the world" />
         <HouseFilter allHouses={allHouses} />
 
