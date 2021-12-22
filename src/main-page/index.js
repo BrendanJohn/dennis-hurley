@@ -1,11 +1,6 @@
 import { useEffect, useState, useMemo} from "react";
 import './main-page.css';
-import Header from "./header"
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-import FeaturedHouse from "./featured-house"
-import SearchResults from "../search-results"
-import HouseFilter from "./house-filter";
-import HouseFromQuery from "../house/HouseFromQuery";
 import NewCarousel from "../carousel";
 
 function App() {
