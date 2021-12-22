@@ -37,7 +37,7 @@ const NewCarousel = () => {
         }}>
           <Carousel
             data={data}
-            time={1000}
+            time={1500}
             width="850px"
             height="500px"
             captionStyle={captionStyle}
