@@ -30,22 +30,6 @@ function App() {
     <Router>
       <div className="container">
       <NewCarousel></NewCarousel>
-        <Header subtitle="Providing houses all over the world" />
-        <HouseFilter allHouses={allHouses} />
-
-        <Switch>
-          <Route path="/searchresults/:country">
-            <SearchResults allHouses={allHouses} />
-          </Route>
-
-          <Route path="/house/:id">
-            <HouseFromQuery allHouses={allHouses} />
-          </Route>
-
-          <Route path="/">
-            <FeaturedHouse house={featuredHouse} />
-          </Route>
-        </Switch>
       </div>
     </Router>
   );
