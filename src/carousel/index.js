@@ -3,9 +3,6 @@ import { Carousel } from 'react-carousel-minimal';
 const NewCarousel = () => {
  const data = [
     {
-      image: "/images/headshotOne.jpg",
-    },
-    {
       image: "/images/headshotTwo.jpg",
     },
     {
@@ -17,6 +14,9 @@ const NewCarousel = () => {
     {
       image: "/images/headshotFive.jpg",
     },
+    {
+      image: "/images/headshotOne.jpg",
+    }
   ];
 
   const captionStyle = {
