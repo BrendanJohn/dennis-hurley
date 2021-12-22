@@ -1,19 +1,8 @@
-import { useEffect, useState, useMemo} from "react";
 import './main-page.css';
 import { BrowserRouter as Router } from "react-router-dom";
 import NewCarousel from "../carousel";
 
 function App() {
-  const [ setAllHouses] = useState([]);
-
-  useEffect(() => {
-    const fetchHouses = async () => {
-      const rsp = await fetch("/houses.json");
-      const houses = await rsp.json();
-      setAllHouses(houses);
-    };
-    fetchHouses();
-  }, []);
 
   return (
     <Router>
