@@ -13,6 +13,6 @@
   background-color: rgb(255, 190, 166);
 }
 
-a.prev {
+a.prev, a.next {
   text-decoration: none;
 }
