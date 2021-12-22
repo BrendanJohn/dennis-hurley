@@ -30,8 +30,7 @@ const NewCarousel = () => {
   return (
     <div className="App">
       <div style={{ textAlign: "center" }}>
-        <h2>Dennis Hurley Test Hero Slider</h2>
-        <p>Easy to use, responsive and customizable carousel component for React Projects.</p>
+        <h2>Dennis-Hurley.com Testing Area</h2>
         <div style={{
           padding: "0 20px"
         }}>
