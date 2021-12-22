@@ -3,7 +3,7 @@ import { Carousel } from 'react-carousel-minimal';
 const NewCarousel = () => {
  const data = [
     {
-      image: "/images/headshotOne.jpeg",
+      image: "/images/headshotOne.jpg",
     },
     {
       image: "/images/headshotTwo.jpg",
