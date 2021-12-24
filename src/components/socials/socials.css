@@ -9,7 +9,21 @@
 
 @media screen and (max-width: 550px) {
     .social-icon {
-        margin-right: 30px;
+        margin-right: 35px;
+        margin-top: 15px;
+        text-align: center;
+    }
+
+    .site-title {
+        text-align: center;
+        font-size: 45px;
+    }
+
+}
+
+@media screen and (max-width: 400px) {
+    .social-icon {
+        margin-right: 22px;
         margin-top: 15px;
         text-align: center;
     }
