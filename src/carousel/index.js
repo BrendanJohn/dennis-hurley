@@ -30,7 +30,6 @@ const NewCarousel = () => {
   return (
     <div className="App">
       <div style={{ textAlign: "center" }}>
-        <h2>Dennis-Hurley.com Testing Area</h2>
         <div style={{
           padding: "0 20px"
         }}>
