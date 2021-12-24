@@ -21,9 +21,9 @@
 
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 450px) {
     .social-icon {
-        margin-right: 15px;
+        margin-right: 20px;
         margin-top: 15px;
         text-align: center;
     }
