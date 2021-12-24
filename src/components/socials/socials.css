@@ -21,16 +21,16 @@
 
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 375px) {
     .social-icon {
-        margin-right: 22px;
+        margin-right: 15px;
         margin-top: 15px;
         text-align: center;
     }
 
     .site-title {
         text-align: center;
-        font-size: 45px;
+        font-size: 40px;
     }
 
 }
