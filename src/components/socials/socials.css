@@ -3,11 +3,19 @@
     margin-right: 5px
 }
 
-@media only screen 
-and (min-device-width : 768px) 
-and (max-device-width : 1024px)  { 
+.site-title {
+    font-family: "Helvetica Neue",Arial,sans-serif
+}
+
+@media screen and (max-width: 550px) {
     .social-icon {
-        height: 50;
-        width: 50
+        margin-right: 35px;
+        margin-top: 15px
     }
+
+    .site-title {
+        text-align: center;
+        font-size: 45px;
+    }
+
 }
