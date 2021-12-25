@@ -12,9 +12,13 @@
 }
 
 @media screen and (max-width: 550px) {
-
+    #socials {
+        margin-right: 25;
+    }
 }
 
 @media screen and (max-width: 380px) {
-
+    #socials {
+        margin-right: 25;
+    }
 }
