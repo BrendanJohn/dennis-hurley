@@ -24,10 +24,14 @@ import Sketches from "./routes/sketches";
 import Testimonials from "./routes/testimonials";
 import Contact from "./routes/contact";
 import Charity from "./routes/charity";
+import Socials from "./components/socials";
+import Header from "./components/header";
 
 ReactDOM.render(
   <React.StrictMode>
     <BrowserRouter>
+    <div className="container">
+    <Header></Header>
     <Routes>
           <Route path="/" element={<App />} />
           <Route path="calendar" element={<Calendar />} />
@@ -46,6 +50,8 @@ ReactDOM.render(
           <Route path="contact" element={<Contact />} />
           <Route path="charity" element={<Charity />} />
     </Routes>
+    <Socials></Socials>
+    </div>
     </BrowserRouter>,
   </React.StrictMode>,
   document.getElementById('root')
