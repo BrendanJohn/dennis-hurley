@@ -7,30 +7,14 @@
     font-family: "Helvetica Neue",Arial,sans-serif
 }
 
-@media screen and (max-width: 550px) {
-    .social-icon {
-        margin-right: 35px;
-        margin-top: 15px;
-        text-align: center;
-    }
+#socials {
+    margin-right: 40px;
+}
 
-    .site-title {
-        text-align: center;
-        font-size: 45px;
-    }
+@media screen and (max-width: 550px) {
 
 }
 
 @media screen and (max-width: 380px) {
-    .social-icon {
-        margin-right: 8px;
-        margin-top: 15px;
-        text-align: center;
-    }
-
-    .site-title {
-        text-align: center;
-        font-size: 37px;
-    }
 
 }

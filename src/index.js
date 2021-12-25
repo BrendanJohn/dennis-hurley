@@ -4,10 +4,49 @@ import './index.css';
 import App from './main-page';
 import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.min.css'
+import {
+  BrowserRouter,
+  Routes,
+  Route
+} from "react-router-dom";
+import Reels from "./routes/reels";
+import Calendar from "./routes/calendar";
+import Resume from "./routes/resume";
+import Headshots from "./routes/headshots";
+import Audio from "./routes/audio";
+import Cartoon from "./routes/cartoon";
+import Standup from "./routes/standup";
+import Impressions from "./routes/impressions";
+import Bio from "./routes/bio";
+import Press from "./routes/press";
+import Podcasts from "./routes/podcasts";
+import Sketches from "./routes/sketches";
+import Testimonials from "./routes/testimonials";
+import Contact from "./routes/contact";
+import Charity from "./routes/charity";
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <BrowserRouter>
+    <Routes>
+          <Route path="/" element={<App />} />
+          <Route path="calendar" element={<Calendar />} />
+          <Route path="resume" element={<Resume />} />
+          <Route path="headshots" element={<Headshots />} />
+          <Route path="reels" element={<Reels />} />
+          <Route path="audio" element={<Audio />} />
+          <Route path="cartoon" element={<Cartoon />} />
+          <Route path="standup" element={<Standup />} />
+          <Route path="impressions" element={<Impressions />} />
+          <Route path="bio" element={<Bio />} />
+          <Route path="press" element={<Press />} />
+          <Route path="podcasts" element={<Podcasts />} />
+          <Route path="sketches" element={<Sketches />} />
+          <Route path="testimonials" element={<Testimonials />} />
+          <Route path="contact" element={<Contact />} />
+          <Route path="charity" element={<Charity />} />
+    </Routes>
+    </BrowserRouter>,
   </React.StrictMode>,
   document.getElementById('root')
 );
