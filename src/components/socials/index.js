@@ -4,7 +4,7 @@ import { SocialIcon } from 'react-social-icons';
 const Socials = ( ) => {
   return (
     <div className="row">
-    <div className="col-sm-5">
+    <div className="col-sm-6">
         <h1 className="site-title">DENNIS HURLEY</h1>
     </div>
     <div className="col-sm-1">
