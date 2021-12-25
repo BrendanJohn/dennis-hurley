@@ -1,0 +1,7 @@
+a.active.nav-link {
+    background-color: rgba(var(--bs-light-rgb),var(--bs-bg-opacity))!important;
+}
+
+.active {
+    background-color: rgba(var(--bs-light-rgb),var(--bs-bg-opacity))!important;
+}
