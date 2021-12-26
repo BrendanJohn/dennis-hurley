@@ -6,7 +6,7 @@ const Socials = ( ) => {
     <div className="row">
     <div className="col">
     </div>
-    <div className="col-8 d-flex justify-content-center" id="socials">
+    <div className="col-10 d-flex justify-content-center" id="socials">
           <SocialIcon style={{ height: 50, width: 50 }} className ="social-icon" url="http://www.youtube.com/denhurley" />
           <SocialIcon style={{ height: 50, width: 50 }} className ="social-icon" url="http://www.vimeo.com/user582835" />
           <SocialIcon style={{ height: 50, width: 50 }} className ="social-icon" url="https://twitter.com/itsdendo" />
