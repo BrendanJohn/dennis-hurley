@@ -16,8 +16,8 @@ export default function Resume() {
   }
 
   return (
-    <div>
-        <div className="d-flex justify-content-center resume">
+    <div className="resume">
+        <div className="d-flex justify-content-center">
           <Document
             file={pdfFile}
             onLoadSuccess={onDocumentLoadSuccess}
@@ -26,10 +26,10 @@ export default function Resume() {
             <Page pageNumber={pageNumber} />
           </Document>
           </div>
-          <div className="d-flex justify-content-center resume">
+          <div className="d-flex justify-content-center">
           <p>Page {pageNumber} of {numPages}</p>
           </div>
-          <div className="d-flex justify-content-center resume">
+          <div className="d-flex justify-content-center">
           <Link to={downloadFile} target="_blank" download>Download</Link>
           </div>
     </div>
