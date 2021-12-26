@@ -17,7 +17,7 @@ export default function Resume() {
 
   return (
     <div>
-        <div className="d-flex justify-content-center ">
+        <div className="d-flex justify-content-center resume">
           <Document
             file={pdfFile}
             onLoadSuccess={onDocumentLoadSuccess}
