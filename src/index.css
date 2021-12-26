@@ -19,10 +19,18 @@ code {
   .resume {
     max-width: 450px;
   }
+
+  canvas.react-pdf_Page_canvas {
+    max-width: 450px;
+  }
 }
 
 @media screen and (max-width: 380px) {
   .resume {
+    max-width: 450px;
+  }
+
+  canvas.react-pdf_Page_canvas {
     max-width: 450px;
   }
 }
