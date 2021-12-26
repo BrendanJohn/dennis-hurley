@@ -7,18 +7,10 @@
     font-family: "Helvetica Neue",Arial,sans-serif
 }
 
-#socials {
-    margin-right: 100px;
-}
-
 @media screen and (max-width: 550px) {
-    #socials {
-        margin-right: 25px;
-    }
+
 }
 
 @media screen and (max-width: 380px) {
-    #socials {
-        margin-right: 25px;
-    }
+
 }
