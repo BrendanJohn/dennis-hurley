@@ -3,7 +3,9 @@ import { Document, Page, pdfjs } from 'react-pdf';
 import { Link } from 'react-router-dom';
 import pdfFile from '../files/dennis.pdf'
 import downloadFile from '../files/dennis-hurley.pdf'
+import '../index.css';
 pdfjs.GlobalWorkerOptions.workerSrc = './pdf.worker.min.js';
+
 
 export default function Resume() {
   const [numPages, setNumPages] = useState(null);
@@ -15,7 +17,7 @@ export default function Resume() {
 
   return (
     <div>
-        <div className="d-flex justify-content-center">
+        <div className="d-flex justify-content-center resume">
           <Document
             file={pdfFile}
             onLoadSuccess={onDocumentLoadSuccess}
