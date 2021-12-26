@@ -20,9 +20,12 @@ code {
     max-width: 450px;
   }
 
-  canvas.react-pdf_Page_canvas {
-    max-width: 450px;
+  .react-pdf__Page__canvas {
+    margin: 0 auto;
+    width: 80% !important;
+    height: 100% !important;
   }
+
 }
 
 @media screen and (max-width: 380px) {
@@ -30,7 +33,9 @@ code {
     max-width: 450px;
   }
 
-  canvas.react-pdf_Page_canvas {
-    max-width: 450px;
-  }
+.react-pdf__Page__canvas {
+  margin: 0 auto;
+  width: 80% !important;
+  height: 100% !important;
+}
 }
