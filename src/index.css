@@ -12,6 +12,12 @@ code {
     monospace;
 }
 
+.audioCard {
+  width: 20rem;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
 
 @media screen and (max-width: 550px) {
   .resume {
