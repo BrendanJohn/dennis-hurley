@@ -1,4 +1,3 @@
-import ReactPlayer from 'react-player'
 import '../index.css';
 
 export default function Reels() {
