@@ -14,7 +14,7 @@ export default function Reels() {
         </iframe>
       </div>
       <div className="d-flex justify-content-center">
-        <h2>2018 Acting Reel</h2>
+        <h3>2018 Acting Reel</h3>
       </div>
       <div className="videoWrapper">
         <iframe 
@@ -27,7 +27,7 @@ export default function Reels() {
         </iframe>
       </div>
       <div className="d-flex justify-content-center">
-        <h2>2016 Acting Reel</h2>
+        <h3>2016 Acting Reel</h3>
       </div>
     </div>
     );
