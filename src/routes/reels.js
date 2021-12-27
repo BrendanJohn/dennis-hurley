@@ -13,6 +13,9 @@ export default function Reels() {
           allowFullScreen>         
         </iframe>
       </div>
+      <div className="d-flex justify-content-center">
+        <h2>2018 Acting Reel</h2>
+      </div>
       <div className="videoWrapper">
         <iframe 
           title="Dennis Hurley Acting Reel 2016" 
@@ -22,6 +25,9 @@ export default function Reels() {
           frameBorder="0" 
           allowFullScreen>         
         </iframe>
+      </div>
+      <div className="d-flex justify-content-center">
+        <h2>2016 Acting Reel</h2>
       </div>
     </div>
     );
