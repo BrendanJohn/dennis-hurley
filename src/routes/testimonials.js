@@ -17,8 +17,8 @@ export default function Testimonials() {
               <blockquote class="blockquote mb-0">
                 <p>"I directed Dennis Hurley in the world premiere production of the play DIAMOND IN THE ROUGH  at the John F. Kennedy Center for the Performing Arts in which he played the leading man.  Dennis was juggling several projects at the time, dividing his time between DC and New York.  He did the part with humor and sensitivity.  
                   It was a pleasure working with him and I would be happy to hire him again in the future."</p>
-                <footer class="blockquote-footer">Paul Douglas Michnewicz 
-                  <cite title="Source Title"> Director, <a href="http://www.vsarts.org">VSA Arts</a></cite>
+                <footer class="blockquote-footer">Paul Douglas Michnewicz, 
+                  <cite title="Source Title"> Director <a href="http://www.vsarts.org">VSA Arts</a></cite>
                   </footer>
             </blockquote>
             </div>
@@ -28,9 +28,9 @@ export default function Testimonials() {
           <div className="card d-flex justify-content-center quoteCard">
             <div className="card-body">
               <blockquote class="blockquote mb-0">
-                <p>"Dennis Hurley’s eloquence, charm, comic-timing, and sheer believability on camera is a rare and refreshing trait.  
+                <p>"Dennis Hurley's eloquence, charm, comic-timing, and sheer believability on camera is a rare and refreshing trait.  
                   Bravo to Dennis Hurley!"</p>
-                <footer class="blockquote-footer"> <a href="http://www.monroemann.com">Monroe Mann</a>
+                <footer class="blockquote-footer"> <a href="http://www.monroemann.com">Monroe Mann,  </a>
                   <cite title="Source Title"> Producer and co-writer of "In the Wake", the world's first wakeboarding feature film, and founder, 
                   Unstoppable Artists Business Schoolector, </cite>
                   </footer>
@@ -60,7 +60,7 @@ export default function Testimonials() {
               <blockquote class="blockquote mb-0">
                 <p>"Dennis Hurley is one of the funniest stage actors I've seen and known.  
                   Simultaneously solid and spontaneous, I know my company is in good hands whenever we cast him in one of our shows."</p>
-                <footer class="blockquote-footer">James Comtois 
+                <footer class="blockquote-footer">James Comtois, 
                   <cite title="Source Title"> Resident playwright & co-artistic director of 
                   <a href="http://www.nosediveproductions.com"> Nosedive Productions</a></cite>
                   </footer>
@@ -76,7 +76,7 @@ export default function Testimonials() {
                   He has tremendous talent for comedy, being able to play either the straight man or the clown with equal skill and impeccable comic timing.  
                   Dennis is just as adept at handling drama and weighty moments, though, and is thoroughly skilled at handling Shakespearean verse.  
                   He is a complete actor, and has a distinct quirkiness about him that has made him one of my primary go-to-guys whenever I'm casting a show.."</p>
-                <footer class="blockquote-footer"><a href="http://www.rodneyhakim.com">Rodney Hakim</a> 
+                <footer class="blockquote-footer"><a href="http://www.rodneyhakim.com">Rodney Hakim, </a> 
                 <cite title="Source Title"> Actor, Director</cite>
                   </footer>
             </blockquote>
@@ -89,7 +89,7 @@ export default function Testimonials() {
               <blockquote class="blockquote mb-0">
                 <p>"There really isn't anyone like Dennis Hurley. 
                   Dennis Hurley lends a palpable chaos to characters that is simultaneously fulfilling and unsettling to watch."</p>
-                <footer class="blockquote-footer">Laurel Beaversdorf
+                <footer class="blockquote-footer">Laurel Beaversdorf, 
                   <cite title="Source Title"> Actor/Yogi</cite>
                   </footer>
             </blockquote>
@@ -102,7 +102,7 @@ export default function Testimonials() {
               <blockquote class="blockquote mb-0">
                 <p>"Working alongside Dennis on stage was fantastic. 
                   When I was in scenes with him, part of me just wanted to sit down in the audience so I could watch him do his thing"</p>
-                <footer class="blockquote-footer">Melanie Adelman
+                <footer class="blockquote-footer">Melanie Adelman, 
                   <cite title="Source Title"> Actor  ("Annie", National Tour)</cite>
                   </footer>
             </blockquote>
@@ -115,8 +115,8 @@ export default function Testimonials() {
               <blockquote class="blockquote mb-0">
                 <p>"I’ve worked with Dennis on a couple of theatre projects. He's a wonderful person and a terrific actor, 
                   the kind you always hope you'll work with again- generous, hard-working, professional, easygoing, funny AND talented."</p>
-                <footer class="blockquote-footer">Richard Brundage 
-                  <cite title="Source Title"> Actor, <a href="http://www.youarealone.com/">'You Are Alone'</a></cite>
+                <footer class="blockquote-footer">Richard Brundage,  
+                  <cite title="Source Title"> Actor <a href="http://www.youarealone.com/">'You Are Alone'</a></cite>
                   </footer>
             </blockquote>
             </div>
@@ -130,7 +130,7 @@ export default function Testimonials() {
                   When Dennis disappears into a character, he could be three feet tall and still be the most commanding actor on the stage.  
                   In addition, Dennis is the actor all the other actors are jealous of on set, due to his uncanny ability to make the crew laugh.  
                   When you can make a guy who has been holding a camera all day crack up, you know there is unrivaled comic timing involved."</p>
-                <footer class="blockquote-footer">Brian “Duck” Mallard 
+                <footer class="blockquote-footer">Brian "Duck" Mallard, 
                   <cite title="Source Title"> Actor, Voice Over Talent (Applebee's, Visa)</cite>
                   </footer>
             </blockquote>
@@ -147,8 +147,8 @@ export default function Testimonials() {
                   Dennis is a pleasure to work with in any capacity and it is evident that he works hard to reach the next level necessary to make himself 
                   seen, heard and most importantly…remembered.  He is an asset to the film and theatrical arena and will undoubtly continue to grow his 
                   recognition thus related."</p>
-                <footer class="blockquote-footer">Steve Brillon 
-                  <cite title="Source Title"> Stage Director, <a href="http://www.facebook.com/steven.brillon">facebook</a></cite>
+                <footer class="blockquote-footer">Steve Brillon, 
+                  <cite title="Source Title"> Stage Director, <a href="http://www.facebook.com/steven.brillon">Facebook</a></cite>
                   </footer>
             </blockquote>
             </div>
@@ -161,8 +161,8 @@ export default function Testimonials() {
                 <p>"Dennis has a rare talent that allows him to bring something new to the camera each and every take. I have worked with Dennis on camera and on stage.  
                   He is one of those actors that you can never get sick of seeing perform.  
                   His energy and perfect grasp of characters makes me want to be around him all the time, hoping that maybe I may steal a bit of his talent.)"</p>
-                <footer class="blockquote-footer">Matt Carbo 
-                  <cite title="Source Title"> Actor, <a href="http://www.castparty.com/">Cast Party</a></cite>
+                <footer class="blockquote-footer">Matt Carbo, 
+                  <cite title="Source Title"> Actor <a href="http://www.castparty.com/">Cast Party</a></cite>
                   </footer>
             </blockquote>
             </div>
@@ -172,10 +172,11 @@ export default function Testimonials() {
           <div className="card d-flex justify-content-center quoteCard">
             <div className="card-body">
               <blockquote class="blockquote mb-0">
-                <p>"I directed Dennis Hurley in the world premiere production of the play DIAMOND IN THE ROUGH  at the John F. Kennedy Center for the Performing Arts in which he played the leading man.  Dennis was juggling several projects at the time, dividing his time between DC and New York.  He did the part with humor and sensitivity.  
-                  It was a pleasure working with him and I would be happy to hire him again in the future."</p>
-                <footer class="blockquote-footer">Paul Douglas Michnewicz 
-                  <cite title="Source Title"> Director, <a href="http://www.vsarts.org">VSA Arts</a></cite>
+                <p>"Dennis Hurley is a versatile actor:  he can play weird (a witch in MACBETH), he can play serious (Talthybius in TROJAN WOMEN), 
+                  and most of all, he can play funny (Billy in HOUSE OF BLUE LEAVES).  
+                  He has great comic instincts and timing (because he can laugh at himself) and he is a very good dialectician."</p>
+                <footer class="blockquote-footer">Greg Bostwick, 
+                  <cite title="Source Title"><a href="http://www.ithaca.edu/theatrearts"> Ithaca College Acting Teacher</a></cite>
                   </footer>
             </blockquote>
             </div>
@@ -185,10 +186,10 @@ export default function Testimonials() {
           <div className="card d-flex justify-content-center quoteCard">
             <div className="card-body">
               <blockquote class="blockquote mb-0">
-                <p>"I directed Dennis Hurley in the world premiere production of the play DIAMOND IN THE ROUGH  at the John F. Kennedy Center for the Performing Arts in which he played the leading man.  Dennis was juggling several projects at the time, dividing his time between DC and New York.  He did the part with humor and sensitivity.  
-                  It was a pleasure working with him and I would be happy to hire him again in the future."</p>
-                <footer class="blockquote-footer">Paul Douglas Michnewicz 
-                  <cite title="Source Title"> Director, <a href="http://www.vsarts.org">VSA Arts</a></cite>
+                <p>"Dennis is a gracious actor whose instincts always surprise you.  His comedy resonates with audiences because of his honesty.  
+                  Dramatically he is there in the moment and always listening.  Sharing scenes with Dennis has been enriching and exciting."</p>
+                <footer class="blockquote-footer"><a href="http://www.amandaladd.com/">Amanda Ladd, </a>
+                  <cite title="Source Title">  Actor </cite>
                   </footer>
             </blockquote>
             </div>
@@ -198,10 +199,12 @@ export default function Testimonials() {
           <div className="card d-flex justify-content-center quoteCard">
             <div className="card-body">
               <blockquote class="blockquote mb-0">
-                <p>"I directed Dennis Hurley in the world premiere production of the play DIAMOND IN THE ROUGH  at the John F. Kennedy Center for the Performing Arts in which he played the leading man.  Dennis was juggling several projects at the time, dividing his time between DC and New York.  He did the part with humor and sensitivity.  
-                  It was a pleasure working with him and I would be happy to hire him again in the future."</p>
-                <footer class="blockquote-footer">Paul Douglas Michnewicz 
-                  <cite title="Source Title"> Director, <a href="http://www.vsarts.org">VSA Arts</a></cite>
+                <p>"Dennis is an extremely talented and hard-working actor who was hands down our first choice to play the lead in "Perfect Profile". 
+                  His ability to stretch himself and play a dramatic role came naturally to him. The character he played required conveying a 
+                  troubled past and a secret, and he was able to pull it off to perfection. He takes direction well, but better than that, 
+                  he knows how to take a character and run with it. Dennis is bound for greatness."</p>
+                <footer class="blockquote-footer">Andrew Park, 
+                  <cite title="Source Title"> Film Director ("Perfect Profile")</cite>
                   </footer>
             </blockquote>
             </div>
@@ -211,10 +214,9 @@ export default function Testimonials() {
           <div className="card d-flex justify-content-center quoteCard">
             <div className="card-body">
               <blockquote class="blockquote mb-0">
-                <p>"I directed Dennis Hurley in the world premiere production of the play DIAMOND IN THE ROUGH  at the John F. Kennedy Center for the Performing Arts in which he played the leading man.  Dennis was juggling several projects at the time, dividing his time between DC and New York.  He did the part with humor and sensitivity.  
-                  It was a pleasure working with him and I would be happy to hire him again in the future."</p>
-                <footer class="blockquote-footer">Paul Douglas Michnewicz 
-                  <cite title="Source Title"> Director, <a href="http://www.vsarts.org">VSA Arts</a></cite>
+                <p>"When Dennis acts in a film, I can not tell where the character ends and where he begins.  Now that is good acting."</p>
+                <footer class="blockquote-footer">James R. Northrup, 
+                  <cite title="Source Title"> Film Producer</cite>
                   </footer>
             </blockquote>
             </div>
@@ -224,10 +226,12 @@ export default function Testimonials() {
           <div className="card d-flex justify-content-center quoteCard">
             <div className="card-body">
               <blockquote class="blockquote mb-0">
-                <p>"I directed Dennis Hurley in the world premiere production of the play DIAMOND IN THE ROUGH  at the John F. Kennedy Center for the Performing Arts in which he played the leading man.  Dennis was juggling several projects at the time, dividing his time between DC and New York.  He did the part with humor and sensitivity.  
-                  It was a pleasure working with him and I would be happy to hire him again in the future."</p>
-                <footer class="blockquote-footer">Paul Douglas Michnewicz 
-                  <cite title="Source Title"> Director, <a href="http://www.vsarts.org">VSA Arts</a></cite>
+                <p>"Dennis is both introspective and adventurous when discovering a character.  
+                  He has overcome physically demanding environments to deliver powerful performances.  
+                  He also has a keen ability to relate the characters emotions to his own, and in my experience he builds full and robust characters. 
+                  For one, because you're so engaging. But also, you've managed to make yourself disappear into the background when it calls for it."</p>
+                <footer class="blockquote-footer">David S. Titus, 
+                  <cite title="Source Title"> Editor <a href="http://www.oiovisuals.com/">Oiovisuals</a></cite>
                   </footer>
             </blockquote>
             </div>
@@ -237,10 +241,12 @@ export default function Testimonials() {
           <div className="card d-flex justify-content-center quoteCard">
             <div className="card-body">
               <blockquote class="blockquote mb-0">
-                <p>"I directed Dennis Hurley in the world premiere production of the play DIAMOND IN THE ROUGH  at the John F. Kennedy Center for the Performing Arts in which he played the leading man.  Dennis was juggling several projects at the time, dividing his time between DC and New York.  He did the part with humor and sensitivity.  
-                  It was a pleasure working with him and I would be happy to hire him again in the future."</p>
-                <footer class="blockquote-footer">Paul Douglas Michnewicz 
-                  <cite title="Source Title"> Director, <a href="http://www.vsarts.org">VSA Arts</a></cite>
+                <p>"Dennis is one of the most hard working and detail oriented individuals I have ever had the pleasure of working with. 
+                  Having worked on the same team with Dennis for over a year he consistently delivered excellent customer service to all customers 
+                  he interacted with. He was a valuable member of our team who always got the job done in both a timely and efficient manner. 
+                  Dennis will be a strong asset to any organization, and beyond being a great employee, he is a great person who always gets the job done!"</p>
+                <footer class="blockquote-footer">Dave DoCouto, 
+                  <cite title="Source Title"> Account Director at Webiknow</cite>
                   </footer>
             </blockquote>
             </div>
@@ -250,10 +256,11 @@ export default function Testimonials() {
           <div className="card d-flex justify-content-center quoteCard">
             <div className="card-body">
               <blockquote class="blockquote mb-0">
-                <p>"I directed Dennis Hurley in the world premiere production of the play DIAMOND IN THE ROUGH  at the John F. Kennedy Center for the Performing Arts in which he played the leading man.  Dennis was juggling several projects at the time, dividing his time between DC and New York.  He did the part with humor and sensitivity.  
-                  It was a pleasure working with him and I would be happy to hire him again in the future."</p>
-                <footer class="blockquote-footer">Paul Douglas Michnewicz 
-                  <cite title="Source Title"> Director, <a href="http://www.vsarts.org">VSA Arts</a></cite>
+                <p>"Aside from the fact that Dennis is one of the nicest, funniest people you'll ever meet, he is extremely capable both in front 
+                  of and behind the camera. Moreover, he knows how to make tough decisions after seeking input from those around him. 
+                  I'd work with him again in a heartbeat."</p>
+                <footer class="blockquote-footer">Aaron Howland, 
+                  <cite title="Source Title"> SEO/SEM Specialist, Web Developer, Filmmmaker</cite>
                   </footer>
             </blockquote>
             </div>
@@ -263,10 +270,9 @@ export default function Testimonials() {
           <div className="card d-flex justify-content-center quoteCard">
             <div className="card-body">
               <blockquote class="blockquote mb-0">
-                <p>"I directed Dennis Hurley in the world premiere production of the play DIAMOND IN THE ROUGH  at the John F. Kennedy Center for the Performing Arts in which he played the leading man.  Dennis was juggling several projects at the time, dividing his time between DC and New York.  He did the part with humor and sensitivity.  
-                  It was a pleasure working with him and I would be happy to hire him again in the future."</p>
-                <footer class="blockquote-footer">Paul Douglas Michnewicz 
-                  <cite title="Source Title"> Director, <a href="http://www.vsarts.org">VSA Arts</a></cite>
+                <p>"Dennis' combination of quick thinking, dedication to quality, articulate communication and insightful empathy set him above the rest."</p>
+                <footer class="blockquote-footer">Dan Truman, 
+                  <cite title="Source Title"> Writer, Actor, and VO Artist at Maude Kaplan Management</cite>
                   </footer>
             </blockquote>
             </div>
@@ -276,23 +282,10 @@ export default function Testimonials() {
           <div className="card d-flex justify-content-center quoteCard">
             <div className="card-body">
               <blockquote class="blockquote mb-0">
-                <p>"I directed Dennis Hurley in the world premiere production of the play DIAMOND IN THE ROUGH  at the John F. Kennedy Center for the Performing Arts in which he played the leading man.  Dennis was juggling several projects at the time, dividing his time between DC and New York.  He did the part with humor and sensitivity.  
-                  It was a pleasure working with him and I would be happy to hire him again in the future."</p>
-                <footer class="blockquote-footer">Paul Douglas Michnewicz 
-                  <cite title="Source Title"> Director, <a href="http://www.vsarts.org">VSA Arts</a></cite>
-                  </footer>
-            </blockquote>
-            </div>
-          </div>
-        </div>
-        <div className="d-flex justify-content-center">
-          <div className="card d-flex justify-content-center quoteCard">
-            <div className="card-body">
-              <blockquote class="blockquote mb-0">
-                <p>"I directed Dennis Hurley in the world premiere production of the play DIAMOND IN THE ROUGH  at the John F. Kennedy Center for the Performing Arts in which he played the leading man.  Dennis was juggling several projects at the time, dividing his time between DC and New York.  He did the part with humor and sensitivity.  
-                  It was a pleasure working with him and I would be happy to hire him again in the future."</p>
-                <footer class="blockquote-footer">Paul Douglas Michnewicz 
-                  <cite title="Source Title"> Director, <a href="http://www.vsarts.org">VSA Arts</a></cite>
+                <p>"Dennis is an asset to the entertainment world that is an excellent actor, writer, and producer with a lot of vision and passion 
+                  for his work! And, of course, he's quite funny too!"</p>
+                <footer class="blockquote-footer">Paul S. Haberman, 
+                  <cite title="Source Title"> Principal/Owner, Law Offices of Paul S. Haberman LLC</cite>
                   </footer>
             </blockquote>
             </div>
