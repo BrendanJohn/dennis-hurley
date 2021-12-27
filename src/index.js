@@ -39,7 +39,7 @@ ReactDOM.render(
           <Route path="headshots" element={<Headshots />} />
           <Route path="reels" element={<Reels />} />
           <Route path="audio" element={<Audio />} />
-          <Route path="cartoon" element={<Cartoon />} />
+          <Route path="cartoon" element={<Cartoon />} />s
           <Route path="standup" element={<Standup />} />
           <Route path="impressions" element={<Impressions />} />
           <Route path="bio" element={<Bio />} />
