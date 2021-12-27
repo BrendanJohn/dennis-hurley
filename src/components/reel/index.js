@@ -11,7 +11,6 @@ const Reel = (props) => {
               width='560' 
               height='349' 
               src={'https://www.youtube.com/embed/' + props.youtubeId } 
-              title='YouTube video player' 
               frameborder='0' 
               allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' 
               allowfullscreen> 
