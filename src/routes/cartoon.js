@@ -5,7 +5,6 @@ export default function Cartoon() {
     return (
     <div className='wrapper'>
       <div className='d-flex justify-content-center videoTitle'>
-            <h3></h3>
       </div>
       <Reel 
         youtubeId='1ANI_22rQtI'
