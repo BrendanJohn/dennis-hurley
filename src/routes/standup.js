@@ -1,7 +1,12 @@
+import Reel from '../components/reel'
+
 export default function Standup() {
     return (
-      <main style={{ padding: "1rem 0" }}>
-        <h2>Standup</h2>
-      </main>
+      <div className='wrapper'>
+        <Reel 
+          vimeoId="101355259?h=d3c1ecda49"
+          title=''>
+        </Reel>
+    </div>
     );
   }
