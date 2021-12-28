@@ -60,6 +60,10 @@ code {
     height: 100% !important;
   }
 
+  .tagline {
+    font-size: 19px;
+  }
+
 }
 
 @media screen and (max-width: 380px) {
@@ -67,9 +71,13 @@ code {
     max-width: 450px;
   }
 
-.react-pdf__Page__canvas {
-  margin: 0 auto;
-  width: 90% !important;
-  height: 100% !important;
-}
+  .react-pdf__Page__canvas {
+    margin: 0 auto;
+    width: 90% !important;
+    height: 100% !important;
+  }
+
+  .tagline {
+    font-size: 19px;
+  }
 }
