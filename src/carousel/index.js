@@ -4,7 +4,7 @@ import "./carousel.css";
 const NewCarousel = () => {
  const data = [
     {
-      image: "/images/headshotTwo.jpg",
+      image: "/images/headshot42.jpg",
     },
     {
       image: "/images/headshotThree.jpg",
