@@ -42,7 +42,7 @@ const NewCarousel = () => {
       <div style={{ textAlign: "center" }}>
           <Carousel
             data={data}
-            time={1700}
+            time={1200}
             width="850px"
             height="500px"
             captionStyle={captionStyle}
