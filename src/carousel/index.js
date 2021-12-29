@@ -39,7 +39,7 @@ const NewCarousel = () => {
         }}>
           <Carousel
             data={data}
-            time={2000}
+            time={5000}
             width="850px"
             height="500px"
             captionStyle={captionStyle}
@@ -51,7 +51,7 @@ const NewCarousel = () => {
             dots={true}
             pauseIconColor="white"
             pauseIconSize="40px"
-            slideBackgroundColor="black"
+            slideBackgroundColor="white"
             slideImageFit="cover"
             thumbnails={false}
             thumbnailWidth="100px"
