@@ -4,21 +4,27 @@ import "./carousel.css";
 const NewCarousel = () => {
  const data = [
     {
+      id: 1,
       image: "/images/dennislaughing.jpg",
     },  
     {
+      id: 2,
       image: "/images/headshot42.jpg",
     },
     {
+      id: 3,
       image: "/images/headshotThree.jpg",
     },
     {
+      id: 4,
       image: "/images/headshotFour.jpg",
     },
     {
+      id: 5,
       image: "/images/headshotFive.jpg",
     },
     {
+      id: 6,
       image: "/images/headshotOne.jpg",
     }
   ];
@@ -39,7 +45,7 @@ const NewCarousel = () => {
         }}>
           <Carousel
             data={data}
-            time={5000}
+            time={1700}
             width="850px"
             height="500px"
             captionStyle={captionStyle}
@@ -48,7 +54,7 @@ const NewCarousel = () => {
             slideNumberStyle={slideNumberStyle}
             captionPosition="bottom"
             automatic={true}
-            dots={true}
+            dots={false}
             pauseIconColor="white"
             pauseIconSize="40px"
             slideBackgroundColor="white"
