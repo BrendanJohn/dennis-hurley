@@ -4,7 +4,7 @@ import "./carousel.css";
 const NewCarousel = () => {
  const data = [
     {
-      image: "/images/dennisLaughing.jpg",
+      image: "/images/dennislaughing.jpg",
     },  
     {
       image: "/images/headshot42.jpg",
@@ -39,7 +39,7 @@ const NewCarousel = () => {
         }}>
           <Carousel
             data={data}
-            time={1700}
+            time={1800}
             width="850px"
             height="500px"
             captionStyle={captionStyle}
