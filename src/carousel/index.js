@@ -38,11 +38,8 @@ const NewCarousel = () => {
     fontWeight: 'bold',
   }
   return (
-    <div className="App">
+    <div>
       <div style={{ textAlign: "center" }}>
-        <div style={{
-          padding: "0 20px"
-        }}>
           <Carousel
             data={data}
             time={1700}
@@ -68,7 +65,6 @@ const NewCarousel = () => {
               margin: "40px auto",
             }}
           />
-        </div>
       </div>
     </div>
   );
