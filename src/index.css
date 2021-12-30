@@ -48,6 +48,10 @@ code {
   margin-bottom: 20px;
 }
 
+.tagline {
+  margin-top: 10px;
+}
+
 
 @media screen and (max-width: 550px) {
   .resume {
@@ -58,10 +62,6 @@ code {
     margin: 0 auto;
     width: 90% !important;
     height: 100% !important;
-  }
-
-  .tagline {
-    font-size: 19px;
   }
 
 }
@@ -75,9 +75,5 @@ code {
     margin: 0 auto;
     width: 90% !important;
     height: 100% !important;
-  }
-
-  .tagline {
-    font-size: 19px;
   }
 }

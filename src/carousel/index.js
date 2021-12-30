@@ -62,7 +62,7 @@ const NewCarousel = () => {
               textAlign: "center",
               maxWidth: "850px",
               maxHeight: "500px",
-              margin: "40px auto",
+              margin: "20px auto",
             }}
           />
       </div>
