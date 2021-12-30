@@ -9,10 +9,10 @@ function App() {
         <h1 className='tagline'><strong>Dennis Hurley</strong></h1>
       </div>
       <div className='d-flex justify-content-center'>
-        <h3><i>Actor, Writer, Comedian, Albino </i></h3>
+        <h3 className='under-tag-line'><i>Actor, Writer, Comedian, Albino </i></h3>
       </div>
       <div className='d-flex justify-content-center'>
-        <h3>SAG-AFTRA</h3>
+        <h3 className='under-tag-line'>SAG-AFTRA</h3>
       </div>
       <NewCarousel></NewCarousel>
     </div>  
