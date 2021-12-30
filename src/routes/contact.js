@@ -6,8 +6,11 @@ export default function Contact() {
               <div className="card-body">
                 <h5 className="card-title">Contact</h5>
                 <h6 className="card-subtitle mb-2 text-muted">Jason Hough, Manager</h6>
-                <p className="card-text">SpeedForce Enterprises</p>
-                <p className="card-text">jason.hough01@gmail.com</p>
+                <span className="card-text"><strong>SpeedForce Enterprises</strong></span>
+                <br />
+                <span className="card-text">jason.hough01@gmail.com</span>
+                <br />
+                <span className="card-text">(256) 665-7731</span>
               </div>
         </div>
       </div>

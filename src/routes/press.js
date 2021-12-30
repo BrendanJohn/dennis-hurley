@@ -9,12 +9,12 @@ export default function Press() {
             <div className="card-body">
               <h5 className="card-title">Star Trek Beyond: Simon Pegg gives blessing to Jaylah spoof</h5>
               <h6 className="card-subtitle mb-2 text-muted">Simon Pegg gives his blessing to 'funniest, sweetest parody'</h6>
-              <h7 className="card-subtitle mb-2 text-muted">July 17, 2016</h7>
+              <h6 className="card-subtitle mb-2 text-muted">July 17, 2016</h6>
               <p className="card-text">        
               Even before Justin Lin's Star Trek Beyond hits theaters on July 22, the parodies are rolling out. 
               According to the film's Scotty, Simon Pegg, this one is already at the head of the pack...
               </p>
-              <a href="https://ew.com/article/2016/07/17/star-trek-jaylah-bed-bath-beyond-parody/" class="btn btn-primary">Read on Entertainment Weekly</a>
+              <a href="https://ew.com/article/2016/07/17/star-trek-jaylah-bed-bath-beyond-parody/" className="btn btn-primary">Read on Entertainment Weekly</a>
             </div>
           </div>
           </div>

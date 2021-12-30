@@ -4,11 +4,11 @@ export default function Bio() {
     return (
       <div className="d-flex justify-content-center">
         <div className="card d-flex justify-content-center bioCard">
-          <img className="card-img-top" src="./images/headshotOne.jpg" alt="2021 Commercial Voice Reel"></img>
+          <img className="card-img-top" src="./images/headshot1.jpg" alt="2021 Commercial Voice Reel"></img>
           <div className="card-body">
             <h5 className="card-title">Actor, Writer, Comedian, Albino.</h5>
             <h6 className="card-subtitle mb-2 text-muted">Dennis Hurley</h6>
-            <p className="card-text">        
+            <div className="card-text">        
             <p>
               Dennis is a Los Angeles & New England based actor-comedian who began his career as a performer at Ithaca College in New York.  
               Dennis also received improvisational training from the Groundlings, the Upright Citizens Brigade Theatre in NYC/Los Angeles and the Massachusetts-based ImprovBoston (where he studied with Kids In The Hall's Kevin McDonald).  
@@ -25,7 +25,7 @@ export default function Bio() {
               Dennis has performed in the lead role in the original play Diamond In The Rough at the Kennedy Center in Washington DC. 
               He has acted in such Off-Off Broadway productions as Rosencrantz and Guildenstern are Dead, Where's Charlie?, 
               Titus Andronicus and The Magic of Mrs. Crowling.</p>
-            </p>
+            </div>
           </div>
         </div>
     </div>

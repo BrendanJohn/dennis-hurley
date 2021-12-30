@@ -12,7 +12,7 @@ export default function podcasts() {
               amusement growing up with albinism and partial sight.
               </p>
               <a href="https://open.spotify.com/episode/1Z0Od3cZ5vhVnqVoK67VOY?si=iAZy8H_tQsGQMiDXjVdswg&nd=1" 
-              class="btn btn-primary">Listen on Spotify</a>
+              className="btn btn-primary">Listen on Spotify</a>
             </div>
           </div>
         </div>
@@ -28,7 +28,7 @@ export default function podcasts() {
               improv, and sketch comedy projects and turns into a deeper conversation on how we define success and happiness.
               </p>
               <a href="https://www.iheart.com/podcast/256-thats-what-im-saying-podca-53712438/episode/episode-1-actorcomedian-dennis-hurley-3219-53745925/" 
-              class="btn btn-primary">Listen on iHeartRadio</a>
+              className="btn btn-primary">Listen on iHeartRadio</a>
             </div>
           </div>
         </div>
@@ -43,7 +43,7 @@ export default function podcasts() {
               Dan and Dennis talk about roots, the call to acting, touring, working in NYC, and Dennis' countless projects around Boston and beyond.
               </p>
               <a href="https://25oclockpod.libsyn.com/2014/10" 
-              class="btn btn-primary">Listen on 25oclockpod's website</a>
+              className="btn btn-primary">Listen on 25oclockpod's website</a>
             </div>
           </div>
         </div>
@@ -58,7 +58,7 @@ export default function podcasts() {
               dating as an albino, and the perils of loving somebody with a different religion.
               </p>
               <a href="https://hubhopper.com/episode/dennis-hurley-1581339529" 
-              class="btn btn-primary">Listen on hubhopper</a>
+              className="btn btn-primary">Listen on hubhopper</a>
             </div>
           </div>
         </div>

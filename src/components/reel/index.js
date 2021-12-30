@@ -11,9 +11,9 @@ const Reel = (props) => {
               width='560' 
               height='349' 
               src={'https://www.youtube.com/embed/' + props.youtubeId } 
-              frameborder='0' 
+              frameBorder='0' 
               allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' 
-              allowfullscreen> 
+              allowFullScreen> 
             </iframe>
         </div>
       <div className='d-flex justify-content-center videoTitle'>

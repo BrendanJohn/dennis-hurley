@@ -13,7 +13,7 @@ export default function Charity() {
               compassionate world where individuals and communities at risk of stigma and exclusion are understood, embraced and celebrated.
               </p>
               <a href="https://positiveexposure.org/" 
-              class="btn btn-primary">Donate to Positive Exposure</a>
+              className="btn btn-primary">Donate to Positive Exposure</a>
             </div>
           </div>
         </div>
@@ -28,7 +28,7 @@ export default function Charity() {
               of an inclusive and equitable society.
               </p>
               <a href="https://www.underthesamesun.com/" 
-              class="btn btn-primary">Donate to Under the Same Sun</a>
+              className="btn btn-primary">Donate to Under the Same Sun</a>
             </div>
           </div>
         </div>
@@ -42,7 +42,7 @@ export default function Charity() {
               people struggling against homelessness and exclusion.
               </p>
               <a href="https://www.noahenterprise.org/" 
-              class="btn btn-primary">Donate toNOAH</a>
+              className="btn btn-primary">Donate toNOAH</a>
             </div>
           </div>
         </div>
