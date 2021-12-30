@@ -1,8 +1,6 @@
 import React, { useState } from 'react';
 import { Document, Page, pdfjs } from 'react-pdf';
-import { Link } from 'react-router-dom';
-import pdfFile from '../files/dennis.pdf'
-import downloadFile from '../files/dennis-hurley.pdf'
+import pdfFile from '../files/dennis-hurley-resume.pdf'
 import '../index.css';
 pdfjs.GlobalWorkerOptions.workerSrc = './pdf.worker.min.js';
 
@@ -30,7 +28,7 @@ export default function Resume() {
           <p>Page {pageNumber} of {numPages}</p>
           </div>
           <div className="d-flex justify-content-center">
-          <Link to={downloadFile} target="_blank" download>Download</Link>
+          <a href = {pdfFile} target = "_blank">Download Pdf</a> 
           </div>
     </div>
   );
