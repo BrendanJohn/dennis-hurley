@@ -19,12 +19,6 @@ const Header = ({ subtitle }) => (
         <Nav className="me-auto">
         </Nav>
         <Nav>
-          <LinkContainer to="/calendar">
-            <Nav.Link>Calendar</Nav.Link>
-          </LinkContainer>
-          <LinkContainer to="/resume">
-            <Nav.Link>Resume</Nav.Link>
-          </LinkContainer>
           <LinkContainer to="/portfolio">
             <Nav.Link>Portfolio</Nav.Link>
           </LinkContainer>
@@ -58,11 +52,17 @@ const Header = ({ subtitle }) => (
           <LinkContainer to="/testimonials">
             <Nav.Link>Testimonials</Nav.Link>
           </LinkContainer>
-          <LinkContainer to="/contact">
-            <Nav.Link>Contact</Nav.Link>
+          <LinkContainer to="/calendar">
+            <Nav.Link>Calendar</Nav.Link>
+          </LinkContainer>
+          <LinkContainer to="/resume">
+            <Nav.Link>Resume</Nav.Link>
           </LinkContainer>
           <LinkContainer to="/charity">
             <Nav.Link>Charity</Nav.Link>
+          </LinkContainer>
+          <LinkContainer to="/contact">
+            <Nav.Link>Contact</Nav.Link>
           </LinkContainer>
         </Nav>
       </Navbar.Collapse>
