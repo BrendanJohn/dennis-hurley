@@ -12,7 +12,7 @@ import {
 import Reels from "./routes/reels";
 import Calendar from "./routes/calendar";
 import Resume from "./routes/resume";
-import Headshots from "./routes/headshots";
+import Portfolio from "./routes/portfolio";
 import Audio from "./routes/audio";
 import Cartoon from "./routes/cartoon";
 import Standup from "./routes/standup";
@@ -36,7 +36,7 @@ ReactDOM.render(
           <Route path="/" element={<App />} />
           <Route path="calendar" element={<Calendar />} />
           <Route path="resume" element={<Resume />} />
-          <Route path="headshots" element={<Headshots />} />
+          <Route path="portfolio" element={<Portfolio />} />
           <Route path="reels" element={<Reels />} />
           <Route path="audio" element={<Audio />} />
           <Route path="cartoon" element={<Cartoon />} />s

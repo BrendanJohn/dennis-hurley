@@ -25,8 +25,8 @@ const Header = ({ subtitle }) => (
           <LinkContainer to="/resume">
             <Nav.Link>Resume</Nav.Link>
           </LinkContainer>
-          <LinkContainer to="/headshots">
-            <Nav.Link>Headshots</Nav.Link>
+          <LinkContainer to="/portfolio">
+            <Nav.Link>Portfolio</Nav.Link>
           </LinkContainer>
           <LinkContainer to="/reels">
             <Nav.Link>Reels</Nav.Link>

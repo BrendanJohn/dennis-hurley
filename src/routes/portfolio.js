@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default function Headshots() {
+export default function Portfolio() {
     return (
       <div>
       <div className="row">
@@ -41,25 +41,16 @@ export default function Headshots() {
           />
 
           <img
-            src="./images/headshot7.jpg"
-            className="w-100 shadow-1-strong rounded mb-4"
-            alt="Yosemite National Park"
-          />
-          <img
-            src="./images/headshot8.jpg"
-            className="w-100 shadow-1-strong rounded mb-4"
-            alt="Yosemite National Park"
-          />
-          <img
             src="./images/headshot9.jpg"
             className="w-100 shadow-1-strong rounded mb-4"
             alt="Yosemite National Park"
           />
           <img
-            src="./images/headshot10.jpg"
+            src="./images/headshot43.jpg"
             className="w-100 shadow-1-strong rounded mb-4"
             alt="Yosemite National Park"
           />
+
           </div>
           <div className="col-lg-4 col-md-12 mb-4 mb-lg-0">
       
@@ -73,30 +64,7 @@ export default function Headshots() {
             className="w-100 shadow-1-strong rounded mb-4"
             alt="Mountains in the Clouds"
           />
-      
-          <img
-            src="./images/headshot14.jpg"
-            className="w-100 shadow-1-strong rounded mb-4"
-            alt="Boat on Calm Water"
-          />
-
-          <img
-            src="./images/headshot15.jpg"
-            className="w-100 shadow-1-strong rounded mb-4"
-            alt="Waves at Sea"
-          />
-      
-          <img
-            src="./images/headshot16.jpg"
-            className="w-100 shadow-1-strong rounded mb-4"
-            alt="Yosemite National Park"
-          />
-
-          <img
-            src="./images/headshot17.jpg"
-            className="w-100 shadow-1-strong rounded mb-4"
-            alt="Yosemite National Park"
-          />
+    
           <img
             src="./images/headshot18.jpg"
             className="w-100 shadow-1-strong rounded mb-4"
@@ -107,11 +75,27 @@ export default function Headshots() {
             className="w-100 shadow-1-strong rounded mb-4"
             alt="Yosemite National Park"
           />
-          <img
-            src="./images/headshot20.jpg"
+            <img
+            src="./images/headshot31.jpg"
             className="w-100 shadow-1-strong rounded mb-4"
             alt="Yosemite National Park"
           />
+          <img
+            src="./images/headshot32.jpg"
+            className="w-100 shadow-1-strong rounded mb-4"
+            alt="Yosemite National Park"
+          />
+          <img
+            src="./images/headshot33.jpg"
+            className="w-100 shadow-1-strong rounded mb-4"
+            alt="Yosemite National Park"
+          />
+          <img
+            src="./images/headshot42.jpg"
+            className="w-100 shadow-1-strong rounded mb-4"
+            alt="Yosemite National Park"
+          />
+
           </div>
           <div className="col-lg-4 col-md-12 mb-4 mb-lg-0">
           <img
@@ -143,12 +127,7 @@ export default function Headshots() {
             className="w-100 shadow-1-strong rounded mb-4"
             alt="Waves at Sea"
           />
-      
-          <img
-            src="./images/headshot26.jpg"
-            className="w-100 shadow-1-strong rounded mb-4"
-            alt="Yosemite National Park"
-          />
+    
 
           <img
             src="./images/headshot27.jpg"
@@ -167,6 +146,11 @@ export default function Headshots() {
           />
           <img
             src="./images/headshot30.jpg"
+            className="w-100 shadow-1-strong rounded mb-4"
+            alt="Yosemite National Park"
+          />
+          <img
+            src="./images/headshot40.jpg"
             className="w-100 shadow-1-strong rounded mb-4"
             alt="Yosemite National Park"
           />
