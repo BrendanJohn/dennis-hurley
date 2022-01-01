@@ -11,7 +11,8 @@ const NewCarousel = () => {
         autoPlay = {true}
         infiniteLoop = {true}
         interval = {3000}
-        showThumbs={true}
+        showThumbs={false}
+        showStatus={false}
         style={{
           textAlign: "center",
           maxWidth: "850px",
