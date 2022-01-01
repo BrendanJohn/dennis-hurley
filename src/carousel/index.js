@@ -10,8 +10,8 @@ const NewCarousel = () => {
         className="carousel-wrapper"
         autoPlay = {true}
         infiniteLoop = {true}
-        interval = {3500}
-        showThumbs={false}
+        interval = {3000}
+        showThumbs={true}
         style={{
           textAlign: "center",
           maxWidth: "850px",
