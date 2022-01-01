@@ -1,70 +1,42 @@
-import { Carousel } from 'react-carousel-minimal';
-import "./carousel.css";
+import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
+import { Carousel } from 'react-responsive-carousel';
+import './carousel.css';
 
 const NewCarousel = () => {
- const data = [
-    {
-      id: 1,
-      image: "/images/dennislaughing.jpg",
-    },  
-    {
-      id: 2,
-      image: "/images/headshot42.jpg",
-    },
-    {
-      id: 3,
-      image: "/images/headshotThree.jpg",
-    },
-    {
-      id: 4,
-      image: "/images/headshotFour.jpg",
-    },
-    {
-      id: 5,
-      image: "/images/headshotFive.jpg",
-    },
-    {
-      id: 6,
-      image: "/images/headshotOne.jpg",
-    }
-  ];
-
-  const captionStyle = {
-    fontSize: '2em',
-    fontWeight: 'bold',
-  }
-  const slideNumberStyle = {
-    fontSize: '20px',
-    fontWeight: 'bold',
-  }
   return (
     <div>
-      <div style={{ textAlign: "center" }}>
-          <Carousel
-            data={data}
-            time={1200}
-            width="850px"
-            height="500px"
-            captionStyle={captionStyle}
-            radius="10px"
-            slideNumber={false}
-            slideNumberStyle={slideNumberStyle}
-            captionPosition="bottom"
-            automatic={true}
-            dots={false}
-            pauseIconColor="white"
-            pauseIconSize="40px"
-            slideBackgroundColor="white"
-            slideImageFit="cover"
-            thumbnails={false}
-            thumbnailWidth="100px"
-            style={{
-              textAlign: "center",
-              maxWidth: "850px",
-              maxHeight: "500px",
-              margin: "20px auto",
-            }}
-          />
+      <div>
+      <Carousel
+        className="carousel-wrapper"
+        autoPlay = {true}
+        infiniteLoop = {true}
+        interval = {3500}
+        showThumbs={false}
+        style={{
+          textAlign: "center",
+          maxWidth: "850px",
+          maxHeight: "500px",
+          margin: "20px auto",
+        }} >
+        <div>
+          <img src="/images/dennislaughing.jpg" />
+        </div>
+        <div>
+          <img src="/images/headshot42.jpg" />
+        </div>
+        <div>
+          <img src="/images/headshotThree.jpg" />
+        </div>
+        <div>
+          <img src="/images/headshotFour.jpg" />
+        </div>
+        <div>
+          <img src="/images/headshotFive.jpg" />
+        </div>
+        <div>
+          <img src="/images/headshotOne.jpg" />
+        </div>
+      </Carousel>
       </div>
     </div>
   );
