@@ -19,22 +19,22 @@ const NewCarousel = () => {
           margin: "20px auto",
         }} >
         <div>
-          <img src="/images/dennislaughing.jpg" />
+          <img src="/images/dennislaughing.jpg" alt="dennis laughing"/>
         </div>
         <div>
-          <img src="/images/headshot42.jpg" />
+          <img src="/images/headshot42.jpg" alt="dennis headshot one"/>
         </div>
         <div>
-          <img src="/images/headshotThree.jpg" />
+          <img src="/images/headshotThree.jpg" alt="dennis headshot two"/>
         </div>
         <div>
-          <img src="/images/headshotFour.jpg" />
+          <img src="/images/headshotFour.jpg" alt="dennis headshot three"/>
         </div>
         <div>
-          <img src="/images/headshotFive.jpg" />
+          <img src="/images/headshotFive.jpg" alt="dennis headshot four"/>
         </div>
         <div>
-          <img src="/images/headshotOne.jpg" />
+          <img src="/images/headshotOne.jpg" alt="dennis headshot five"/>
         </div>
       </Carousel>
       </div>
