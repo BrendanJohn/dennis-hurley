@@ -32,7 +32,7 @@ export default function Testimonials() {
                   Bravo to Dennis Hurley!"</p>
                 <footer className="blockquote-footer"> <a href="http://www.monroemann.com">Monroe Mann,  </a>
                   <cite title="Source Title"> Producer and co-writer of "In the Wake", the world's first wakeboarding feature film, and founder, 
-                  Unstoppable Artists Business Schoolector, </cite>
+                  Unstoppable Artists Business Schoolector   </cite>
                   </footer>
             </blockquote>
             </div>
@@ -49,7 +49,7 @@ export default function Testimonials() {
                   In action sequences, at first there were some issues with coordination and vision but Dennis' natural 
                   discipline and investment overcame these road bumps and his performances were always exciting and consistent. 
                   Indeed his condition served more as a catalyst for a deeper, more nuanced character rather than a distraction."</p>
-                <footer className="blockquote-footer">David Engel, Actor  (Steppenwolf Theatre Company</footer>
+                <footer className="blockquote-footer">David Engel, Actor, Steppenwolf Theatre Company</footer>
             </blockquote>
             </div>
           </div>
@@ -76,7 +76,7 @@ export default function Testimonials() {
                   He has tremendous talent for comedy, being able to play either the straight man or the clown with equal skill and impeccable comic timing.  
                   Dennis is just as adept at handling drama and weighty moments, though, and is thoroughly skilled at handling Shakespearean verse.  
                   He is a complete actor, and has a distinct quirkiness about him that has made him one of my primary go-to-guys whenever I'm casting a show.."</p>
-                <footer className="blockquote-footer"><a href="http://www.rodneyhakim.com">Rodney Hakim, </a> 
+                <footer className="blockquote-footer"><a href="http://www.rodneyhakim.com">Rodney Hakim,</a> 
                 <cite title="Source Title"> Actor, Director</cite>
                   </footer>
             </blockquote>
@@ -188,7 +188,7 @@ export default function Testimonials() {
               <blockquote className="blockquote mb-0">
                 <p>"Dennis is a gracious actor whose instincts always surprise you.  His comedy resonates with audiences because of his honesty.  
                   Dramatically he is there in the moment and always listening.  Sharing scenes with Dennis has been enriching and exciting."</p>
-                <footer className="blockquote-footer"><a href="http://www.amandaladd.com/">Amanda Ladd, </a>
+                <footer className="blockquote-footer"><a href="http://www.amandaladd.com/">Amanda Ladd,</a>
                   <cite title="Source Title">  Actor </cite>
                   </footer>
             </blockquote>
