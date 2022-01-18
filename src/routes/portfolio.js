@@ -10,7 +10,11 @@ export default function Portfolio() {
             className="w-100 shadow-1-strong rounded mb-4"
             alt="Boat on Calm Water"
           />
-      
+          <img
+            src="./images/headshot29.jpg"
+            className="w-100 shadow-1-strong rounded mb-4"
+            alt="Yosemite National Park"
+          />
           <img
             src="./images/headshot2.jpg"
             className="w-100 shadow-1-strong rounded mb-4"
@@ -33,18 +37,7 @@ export default function Portfolio() {
             className="w-100 shadow-1-strong rounded mb-4"
             alt="Waves at Sea"
           />
-      
-          <img
-            src="./images/headshot6.jpg"
-            className="w-100 shadow-1-strong rounded mb-4"
-            alt="Yosemite National Park"
-          />
 
-          <img
-            src="./images/headshot9.jpg"
-            className="w-100 shadow-1-strong rounded mb-4"
-            alt="Yosemite National Park"
-          />
           <img
             src="./images/headshot43.jpg"
             className="w-100 shadow-1-strong rounded mb-4"
@@ -53,30 +46,13 @@ export default function Portfolio() {
 
           </div>
           <div className="col-lg-4 col-md-12 mb-4 mb-lg-0">
-      
           <img
-            src="./images/headshot12.jpg"
+            src="./images/headshot6.jpg"
             className="w-100 shadow-1-strong rounded mb-4"
-            alt="Wintry Mountain Landscape"
+            alt="Yosemite National Park"
           />
-          <img
-            src="./images/headshot13.jpg"
-            className="w-100 shadow-1-strong rounded mb-4"
-            alt="Mountains in the Clouds"
-          />
-    
           <img
             src="./images/headshot18.jpg"
-            className="w-100 shadow-1-strong rounded mb-4"
-            alt="Yosemite National Park"
-          />
-          <img
-            src="./images/headshot19.jpg"
-            className="w-100 shadow-1-strong rounded mb-4"
-            alt="Yosemite National Park"
-          />
-            <img
-            src="./images/headshot31.jpg"
             className="w-100 shadow-1-strong rounded mb-4"
             alt="Yosemite National Park"
           />
@@ -87,6 +63,11 @@ export default function Portfolio() {
           />
           <img
             src="./images/headshot33.jpg"
+            className="w-100 shadow-1-strong rounded mb-4"
+            alt="Yosemite National Park"
+          />
+          <img
+            src="./images/headshot31.jpg"
             className="w-100 shadow-1-strong rounded mb-4"
             alt="Yosemite National Park"
           />
@@ -111,15 +92,9 @@ export default function Portfolio() {
           />
 
           <img
-            src="./images/headshot23.jpg"
+            src="./images/headshot28.jpg"
             className="w-100 shadow-1-strong rounded mb-4"
             alt="Mountains in the Clouds"
-          />
-      
-          <img
-            src="./images/headshot24.jpg"
-            className="w-100 shadow-1-strong rounded mb-4"
-            alt="Boat on Calm Water"
           />
 
           <img
@@ -127,7 +102,11 @@ export default function Portfolio() {
             className="w-100 shadow-1-strong rounded mb-4"
             alt="Waves at Sea"
           />
-    
+          <img
+            src="./images/headshot40.jpg"
+            className="w-100 shadow-1-strong rounded mb-4"
+            alt="Yosemite National Park"
+          />
 
           <img
             src="./images/headshot27.jpg"
@@ -135,22 +114,7 @@ export default function Portfolio() {
             alt="Yosemite National Park"
           />
           <img
-            src="./images/headshot28.jpg"
-            className="w-100 shadow-1-strong rounded mb-4"
-            alt="Yosemite National Park"
-          />
-          <img
-            src="./images/headshot29.jpg"
-            className="w-100 shadow-1-strong rounded mb-4"
-            alt="Yosemite National Park"
-          />
-          <img
-            src="./images/headshot30.jpg"
-            className="w-100 shadow-1-strong rounded mb-4"
-            alt="Yosemite National Park"
-          />
-          <img
-            src="./images/headshot40.jpg"
+            src="./images/headshot23.jpg"
             className="w-100 shadow-1-strong rounded mb-4"
             alt="Yosemite National Park"
           />
