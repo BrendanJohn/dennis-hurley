@@ -20,7 +20,7 @@ const NewCarousel = () => {
           margin: '20px auto',
         }} >  
          <div>
-          <img src='/images/dennisHighQuality.jpeg' alt='dennis headshot two'/>
+          <img src='/images/dennisHighQuality.jpg' alt='dennis headshot two'/>
         </div>
         <div>
           <img src='/images/headshotFive.jpg' alt='dennis headshot four'/>
