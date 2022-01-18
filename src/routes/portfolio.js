@@ -6,6 +6,11 @@ export default function Portfolio() {
       <div className="row">
         <div className="col-lg-4 col-md-12 mb-4 mb-lg-0">
           <img
+            src="./images/DennisJune2016.jpeg"
+            className="w-100 shadow-1-strong rounded mb-4"
+            alt="Boat on Calm Water"
+          />
+          <img
             src="./images/headshot1.jpg"
             className="w-100 shadow-1-strong rounded mb-4"
             alt="Boat on Calm Water"
@@ -44,8 +49,8 @@ export default function Portfolio() {
             alt="Yosemite National Park"
           />
 
-          </div>
-          <div className="col-lg-4 col-md-12 mb-4 mb-lg-0">
+        </div>
+        <div className="col-lg-4 col-md-12 mb-4 mb-lg-0">
           <img
             src="./images/headshot6.jpg"
             className="w-100 shadow-1-strong rounded mb-4"
@@ -67,6 +72,16 @@ export default function Portfolio() {
             alt="Yosemite National Park"
           />
           <img
+            src="./images/glasses.jpeg"
+            className="w-100 shadow-1-strong rounded mb-4"
+            alt="Yosemite National Park"
+          />
+          <img
+            src="./images/dennis2020.jpg"
+            className="w-100 shadow-1-strong rounded mb-4"
+            alt="Yosemite National Park"
+          />
+          <img
             src="./images/headshot31.jpg"
             className="w-100 shadow-1-strong rounded mb-4"
             alt="Yosemite National Park"
@@ -77,8 +92,13 @@ export default function Portfolio() {
             alt="Yosemite National Park"
           />
 
-          </div>
-          <div className="col-lg-4 col-md-12 mb-4 mb-lg-0">
+        </div>
+        <div className="col-lg-4 col-md-12 mb-4 mb-lg-0">
+          <img
+            src="./images/dennis.jpeg"
+            className="w-100 shadow-1-strong rounded mb-4"
+            alt="Boat on Calm Water"
+          />
           <img
             src="./images/headshot21.jpg"
             className="w-100 shadow-1-strong rounded mb-4"
@@ -115,6 +135,11 @@ export default function Portfolio() {
           />
           <img
             src="./images/headshot23.jpg"
+            className="w-100 shadow-1-strong rounded mb-4"
+            alt="Yosemite National Park"
+          />
+          <img
+            src="./images/headshot.jpg"
             className="w-100 shadow-1-strong rounded mb-4"
             alt="Yosemite National Park"
           />

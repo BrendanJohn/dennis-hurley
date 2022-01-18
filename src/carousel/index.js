@@ -18,24 +18,21 @@ const NewCarousel = () => {
           maxWidth: '850px',
           maxHeight: '500px',
           margin: '20px auto',
-        }} >
-        <div>
-          <img src='/images/dennislaughing.jpg' alt='dennis laughing'/>
-        </div>
-        <div>
-          <img src='/images/headshot42.jpg' alt='dennis headshot one'/>
-        </div>
-        <div>
-          <img src='/images/headshotThree.jpg' alt='dennis headshot two'/>
-        </div>
-        <div>
-          <img src='/images/headshotFour.jpg' alt='dennis headshot three'/>
+        }} >  
+         <div>
+          <img src='/images/dennisHighQuality.jpeg' alt='dennis headshot two'/>
         </div>
         <div>
           <img src='/images/headshotFive.jpg' alt='dennis headshot four'/>
         </div>
         <div>
           <img src='/images/headshotOne.jpg' alt='dennis headshot five'/>
+        </div>
+        <div>
+          <img src='/images/headshot42.jpg' alt='dennis headshot one'/>
+        </div>
+        <div>
+          <img src='/images/headshot.jpg' alt='dennis headshot three'/>
         </div>
       </Carousel>
       </div>
