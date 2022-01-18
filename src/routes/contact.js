@@ -11,6 +11,8 @@ export default function Contact() {
                 <span className="card-text">jason.hough01@gmail.com</span>
                 <br />
                 <span className="card-text">(256) 665-7731</span>
+                <br />
+                <img className="card-img-top contactCard" src="./images/sf4_2.jpeg" alt="speed force"></img>
               </div>
         </div>
       </div>

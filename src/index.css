@@ -52,6 +52,9 @@ code {
   margin-top: 10px;
 }
 
+.contactCard {
+  margin-top: 15px;
+}
 
 @media screen and (max-width: 550px) {
   .resume {
