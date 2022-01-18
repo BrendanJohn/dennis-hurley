@@ -134,7 +134,7 @@ export default function Portfolio() {
             alt="Yosemite National Park"
           />
           <img
-            src="./images/glasses2.jpg"
+            src="./images/dennislaughing.jpg"
             className="w-100 shadow-1-strong rounded mb-4"
             alt="Yosemite National Park"
           />
