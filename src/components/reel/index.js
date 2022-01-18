@@ -5,6 +5,9 @@ const Reel = (props) => {
     if (isYouTube) {
       return (
       <div>
+      <div className='d-flex justify-content-center videoTitle'>
+            <h3>{props.title}</h3>
+      </div>
         <div className='videoWrapper'>
             <iframe 
               title={props.title} 
@@ -16,15 +19,15 @@ const Reel = (props) => {
               allowFullScreen> 
             </iframe>
         </div>
-      <div className='d-flex justify-content-center videoTitle'>
-            <h3>{props.title}</h3>
-      </div>
     </div>  
       );
     }
     else {
       return (
         <div>
+        <div className='d-flex justify-content-center videoTitle'>
+              <h3>{props.title}</h3>
+        </div>
           <div className='videoWrapper'>
               <iframe 
                 title={props.title} 
@@ -35,9 +38,6 @@ const Reel = (props) => {
                 allowFullScreen>         
               </iframe>
           </div>
-        <div className='d-flex justify-content-center videoTitle'>
-              <h3>{props.title}</h3>
-        </div>
         </div>  
         );
       }

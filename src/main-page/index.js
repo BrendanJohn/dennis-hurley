@@ -2,6 +2,7 @@ import './main-page.css';
 import NewCarousel from "../carousel";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min';
+import Reel from "../components/reel";
 
 function App() {
 
@@ -17,6 +18,14 @@ function App() {
         <h3 className='under-tag-line'>SAG-AFTRA</h3>
       </div>
       <NewCarousel></NewCarousel>
+      <Reel 
+        vimeoId="667339024?h=9961e0cbb7"
+        title="Dennis Hurley 2022 Acting Reel">
+      </Reel>
+      <Reel 
+        vimeoId="666878542?h=cb5d912617"
+        title="Dennis Hurley Mr. Freeze Proof of Concept">
+      </Reel>
     </div>  
   );
 }
