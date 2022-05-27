@@ -11,7 +11,7 @@ const Socials = ( ) => {
           <SocialIcon style={{ height: 38, width: 38 }} className ="social-icon" url="http://www.vimeo.com/user582835" />
           <SocialIcon style={{ height: 38, width: 38 }} className ="social-icon" url="https://twitter.com/itsdendo" />
           <SocialIcon style={{ height: 38, width: 38 }} className ="social-icon" url="http://dennishurley.tumblr.com/" />
-          <SocialIcon style={{ height: 38, width: 38 }} className ="social-icon" url="http://instagram.com/itsdendo" />
+          <SocialIcon style={{ height: 38, width: 38 }} className ="social-icon" url="http://instagram.com/dendohurley" />
           <SocialIcon style={{ height: 38, width: 38 }} className ="social-icon" url="http://www.facebook.com/dendocomedy" />
     </div>
     <div className="col">
