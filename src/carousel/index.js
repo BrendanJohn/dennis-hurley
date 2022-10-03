@@ -2,7 +2,7 @@ import 'react-responsive-carousel/lib/styles/carousel.min.css'; // requires a lo
 import { Carousel } from 'react-responsive-carousel';
 import './carousel.css';
 
-const NewCarousel = () => {
+const HomePageCarousel = () => {
   return (
     <div>
       <div>
@@ -40,4 +40,4 @@ const NewCarousel = () => {
   );
 };
 
-export default NewCarousel;
+export default HomePageCarousel;
