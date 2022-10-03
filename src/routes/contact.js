@@ -8,7 +8,7 @@ const config = {
   userLastName: 'Murphy',
 };
 
-export default function Contact() {
+const Contact = () => {
     return (
       <div>
           <div className="d-flex justify-content-center">
@@ -31,4 +31,5 @@ export default function Contact() {
       </div>
     </div>
     );
-  }
+  };
+  export default Contact;
