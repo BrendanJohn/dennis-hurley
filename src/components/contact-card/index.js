@@ -1,5 +1,4 @@
 import './contact-card.css'
-import { ServoiceFeedback } from 'react-feedback-widget';
 
 const config = {
   servId: 'cl8t3e61z000709l0fy773k38',
@@ -16,17 +15,13 @@ const ContactCard = () => {
             <div className="card contactCard" >
               <div className="card-body">
                 <h5 className="card-title">Contact</h5>
-                <h6 className="card-subtitle mb-2 text-muted">Jason Hough, Manager</h6>
-                <span className="card-text"><strong>SpeedForce Enterprises</strong></span>
+                <h6 className="card-subtitle mb-2 text-muted">Dennis Hurley</h6>
                 <br />
-                <span className="card-text">jason.hough01@gmail.com</span>
+                <span className="card-text">dennisjhurleyla@gmail.com</span>
                 <br />
-                <span className="card-text">(256) 665-7731</span>
+                <span className="card-text">(781) 864-8258</span>
                 <br />
-                <img className="card-img-top contactCard" src="./images/sf4_2.jpeg" alt="speed force"></img>
-                <ServoiceFeedback config={config}>
-                    <button className="btn btn-primary" id="feedbackButton" type="button">Feedback?</button>
-                </ServoiceFeedback>
+                <img className="card-img-top contactCard" src="./images/headshot1.jpg" alt="Dennis Hurley"></img>
               </div>
             </div>
       </div>
