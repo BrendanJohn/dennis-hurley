@@ -9,9 +9,14 @@ export default function Portfolio() {
             src="./images/untitled-5153-24-1000x.jpg"
             className="w-100 shadow-1-strong rounded mb-4"
             alt="Boat on Calm Water"
-          />
+        />
           <img
             src="./images/untitled-5247-47-1000x.jpg"
+            className="w-100 shadow-1-strong rounded mb-4"
+            alt="Boat on Calm Water"
+          />
+          <img
+            src="./images/dennisOutside.jpg"
             className="w-100 shadow-1-strong rounded mb-4"
             alt="Boat on Calm Water"
           />
@@ -41,6 +46,11 @@ export default function Portfolio() {
             alt="Boat on Calm Water"
           />
           <img
+            src="./images/dennisOutside2.jpg"
+            className="w-100 shadow-1-strong rounded mb-4"
+            alt="Boat on Calm Water"
+          />
+          <img
             src="./images/headshot29.jpg"
             className="w-100 shadow-1-strong rounded mb-4"
             alt="Yosemite National Park"
@@ -65,6 +75,11 @@ export default function Portfolio() {
           />
           <img
             src="./images/untitled-5341-57-1000x.jpg"
+            className="w-100 shadow-1-strong rounded mb-4"
+            alt="Boat on Calm Water"
+          />
+          <img
+            src="./images/dennisOutside3.jpg"
             className="w-100 shadow-1-strong rounded mb-4"
             alt="Boat on Calm Water"
           />
@@ -119,6 +134,11 @@ export default function Portfolio() {
         <div className="col-lg-4 col-md-12 mb-4 mb-lg-0">
         <img
             src="./images/untitled-5354-63-1000x.jpg"
+            className="w-100 shadow-1-strong rounded mb-4"
+            alt="Boat on Calm Water"
+          />
+          <img
+            src="./images/dennisOutside4.jpg"
             className="w-100 shadow-1-strong rounded mb-4"
             alt="Boat on Calm Water"
           />
