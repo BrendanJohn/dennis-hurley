@@ -30,11 +30,6 @@ export default function Portfolio() {
             className="w-100 shadow-1-strong rounded mb-4"
             alt="Boat on Calm Water"
           />
-        <img
-            src="./images/DENNIS-HURLEY--4831-1-1000x.jpg"
-            className="w-100 shadow-1-strong rounded mb-4"
-            alt="Boat on Calm Water"
-          />
           <img
             src="./images/DennisJune2016.jpg"
             className="w-100 shadow-1-strong rounded mb-4"
