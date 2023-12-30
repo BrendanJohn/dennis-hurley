@@ -15,7 +15,7 @@
     "react-bootstrap": "^2.0.4",
     "react-carousel": "^4.3.0",
     "react-carousel-minimal": "1.3.4",
-    "react-dom": "^18.2.0",
+    "react-dom": "^17.0.2",
     "react-embedded-google-calendar": "^1.0.11",
     "react-feedback-widget": "^4.0.0",
     "react-grid-gallery": "^0.5.5",
