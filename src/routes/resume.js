@@ -32,6 +32,17 @@ export default function Resume() {
           </div>
           <div className="d-flex justify-content-center">
           </div>
+          <div className="d-flex justify-content-center">
+            <a
+              href={pdfFile}
+              download
+              target="_blank"
+              rel="noopener noreferrer"
+              className="btn btn-primary"
+            >
+              Download PDF
+            </a>
+          </div>
     </div>
   );
 }
