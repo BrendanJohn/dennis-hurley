@@ -1,7 +1,7 @@
-
 import React from "react";
 import { Nav, Navbar, Container} from "react-bootstrap";
 import { LinkContainer } from 'react-router-bootstrap'
+import './header.css'
 
 
 import "bootstrap/dist/css/bootstrap.min.css";
@@ -9,7 +9,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 const Header = ({ subtitle }) => (
    <div>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"></meta>
-    <Navbar collapseOnSelect expand="lg" bg="light" variant="light">
+    <Navbar className="padding-right" collapseOnSelect expand="lg" bg="light" variant="light">
     <Container>
       <LinkContainer to="/">
         <Navbar.Brand href="#home">Dennis Hurley</Navbar.Brand>
@@ -49,17 +49,8 @@ const Header = ({ subtitle }) => (
           <LinkContainer to="/sketches">
             <Nav.Link>Sketches</Nav.Link>
           </LinkContainer>
-          <LinkContainer to="/testimonials">
-            <Nav.Link>Testimonials</Nav.Link>
-          </LinkContainer>
-          <LinkContainer to="/calendar">
-            <Nav.Link>Calendar</Nav.Link>
-          </LinkContainer>
           <LinkContainer to="/resume">
             <Nav.Link>Resume</Nav.Link>
-          </LinkContainer>
-          <LinkContainer to="/charity">
-            <Nav.Link>Charity</Nav.Link>
           </LinkContainer>
           <LinkContainer to="/contact">
             <Nav.Link>Contact</Nav.Link>

@@ -6,6 +6,18 @@ export default function Sketches() {
       <div className='d-flex justify-content-center videoTitle'>
       </div>
       <Reel 
+        vimeoId='947091753'
+        title="Reverse, Skip w/ Dennis & Quentin">
+      </Reel>
+      <Reel 
+        youtubeId="Ra7G_9uhqY0"
+        title="Dennis Targaryen: Tax Professional">
+      </Reel>
+      <Reel 
+        youtubeId="cEZhsVf5hoo"
+        title="Dennis Scene (from WATER Mockumentary by Paul A. Ezzy)">
+      </Reel>
+      <Reel 
         youtubeId="wd5z66AYC_A?t=248s"
         title="Palewatch">
       </Reel>
@@ -36,14 +48,6 @@ export default function Sketches() {
       <Reel 
         vimeoId='6112140'
         title='The Albino Code'>
-      </Reel>
-      <Reel 
-        vimeoId='51139155 '
-        title='Once Again'>
-      </Reel>
-      <Reel 
-        vimeoId='47943707 '
-        title='A Little Push  (music video for Once Again)'>
       </Reel>
       <Reel 
         vimeoId='250494378'

@@ -19,8 +19,12 @@ function App() {
       </div>
       <HomePageCarousel></HomePageCarousel>
       <Reel 
-        vimeoId="667339024?h=9961e0cbb7"
-        title="Dennis Hurley 2022 Acting Reel">
+        vimeoId="860983699?h=9961e0cbb7"
+        title="Dennis Hurley Comedic Reel">
+      </Reel>
+       <Reel 
+        vimeoId="871156347?h=9961e0cbb7"
+        title="Dennis Hurley Dramatic Reel">
       </Reel>
       <Reel 
         vimeoId="666878542?h=cb5d912617"

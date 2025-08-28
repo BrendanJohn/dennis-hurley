@@ -15,13 +15,13 @@ const ContactCard = () => {
             <div className="card contactCard" >
               <div className="card-body">
                 <h5 className="card-title">Contact</h5>
-                <h6 className="card-subtitle mb-2 text-muted">Dennis Hurley</h6>
+                <h6 className="card-subtitle mb-2 text-muted">Manager: Jason Hough, Kord Enterprises</h6>
                 <br />
-                <span className="card-text">dennisjhurleyla@gmail.com</span>
+                <span className="card-text">jason@kordmanagement.com</span>
                 <br />
-                <span className="card-text">(781) 864-8258</span>
+                <span className="card-text">(727) 598-5140</span>
                 <br />
-                <img className="card-img-top contactCard" src="./images/headshot1.jpg" alt="Dennis Hurley"></img>
+                <img className="card-img-top contactCard" src="./images/Koro.png" alt="Dennis Hurley"></img>
               </div>
             </div>
       </div>
