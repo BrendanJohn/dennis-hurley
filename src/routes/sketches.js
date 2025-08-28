@@ -18,6 +18,10 @@ export default function Sketches() {
         title="Dennis Scene (from WATER Mockumentary by Paul A. Ezzy)">
       </Reel>
       <Reel 
+        youtubeId="W8D1RPMloa4?t=248s"
+        title="Pete & Dennis - Chicken Sandwich Reviews">
+      </Reel>
+      <Reel 
         youtubeId="wd5z66AYC_A?t=248s"
         title="Palewatch">
       </Reel>
