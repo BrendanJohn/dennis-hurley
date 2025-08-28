@@ -3,7 +3,7 @@ import { Document, Page, pdfjs } from 'react-pdf';
 import pdfFile from '../files/dennis-hurley-resume.pdf'
 import '../index.css';
 import { Link } from 'react-router-dom';
-pdfjs.GlobalWorkerOptions.workerSrc = './pdf.worker.min.js';
+pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 
 export default function Resume() {
